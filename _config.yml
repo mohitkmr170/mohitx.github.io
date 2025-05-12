@@ -1,5 +1,7 @@
 title: Mohit Kumar
-description: Frontend Developer | React, React Native, TypeScript, Firebase
+description: 🚀 Frontend Developer | Mobile & Web Apps | React Native(Android, IOS) | React.js | JavaScript & TypeScript | State Management | REST & GraphQL | Firebase
 theme: jekyll-theme-cayman # You can change this to another theme
 show_downloads: false
 google_analytics:
+github:
+  is_project_page: false

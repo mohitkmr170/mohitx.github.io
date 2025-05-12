@@ -1,2 +1,1 @@
-# mohitx.github.io
-mohitx.github.io/portfolio
+# Mohit Kumar | Portfolio
